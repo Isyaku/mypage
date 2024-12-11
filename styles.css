@@ -333,7 +333,7 @@ nav {
 
   .links a {
     background: transparent;
-    color: var(--clr-white);
+    color: var(--clr-primary-1);
     font-size: 1.1rem;
     text-transform: capitalize;
     letter-spacing: var(--spacing);
